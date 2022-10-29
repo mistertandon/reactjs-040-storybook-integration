@@ -1,0 +1,15 @@
+.input-field {
+    height: 16px;
+}
+
+.input-field--small {
+    height: 12px;
+}
+
+.input-field--medium {
+    height: 16px;
+}
+
+.input-field--large {
+    height: 20px;
+}
