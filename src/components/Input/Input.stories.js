@@ -7,3 +7,4 @@ export default {
 };
 
 export const Small = () => <Input size="small" placeholder="Enter username"/>;
+Small.storyName = 'Small Input'
