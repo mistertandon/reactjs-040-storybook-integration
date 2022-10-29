@@ -1,0 +1,27 @@
+.btn{
+    width: fit-content;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.btn-primary{
+    background-color: white;
+}
+
+.btn-danger{
+    background-color: red;
+}
+
+.btn-alert{
+    background-color: green;
+}
+
+.btn-info{
+    background-color: orange;
+}
