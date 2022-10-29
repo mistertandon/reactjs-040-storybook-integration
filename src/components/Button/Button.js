@@ -5,7 +5,7 @@ const Button = ({ variant = "primary" }) => {
   return (
     <>
     <button className={`btn btn-${variant}`}>
-        button
+        Button
     </button>
     </>
   );
